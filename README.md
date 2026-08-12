@@ -4,6 +4,6 @@
 
 <div align="center">
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lisantov&theme=tokyonight&border_radius=9)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=lisantov&theme=dark)](https://git.io/streak-stats)
   
 </div>
